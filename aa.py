@@ -1,1 +1,1 @@
-ptrint(py)
+print(py)
